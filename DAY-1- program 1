@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+    <h2 style="text-align: center; background-color: black; color: rgb(255, 255, 255);">employee table</h2>
+    <table style="margin-left: 560px; width: 222px;">
+        <tr style="background-color: rgb(107, 206, 67); width: 100% ;">
+            <th>employee no.</th>
+            <th>name</th>
+            <th>sellery</th>
+        </tr>
+        <tr style="background-color: yellow; width: 100px ;">
+            <td>1</td>
+            <td>zeel</td>
+            <td>30000</td>
+        </tr>
+        <tr style="background-color: yellow;height: 100px; ">
+            <td>2</td>
+            <td>neel</td>
+            <td>10000</td>
+        </tr>
+        <tr style="background-color: yellow;">
+            <td>3</td>
+            <td>shubh</td>
+            <td>20000</td>
+        </tr>
+    </table>
+</body>
+</html>
