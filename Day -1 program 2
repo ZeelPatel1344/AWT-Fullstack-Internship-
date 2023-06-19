@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+    <title>first web page</title>
+</head>
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+</style>
+
+<body>
+    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">its my first web
+        page.</p>
+    <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id placeat quisquam magnam reiciendis blanditiis
+        dolorum praesentium nam quis atque libero? Nesciunt cupiditate ipsum suscipit ullam. Numquam doloremque nam
+        porro quo similique vitae vero accusamus.</h1>
+
+    <h3>text</h3>
+    <h6>text</h6>
+    <ul style="list-style-type:lower-roman;">
+        <li>hello</li>
+        <li>guys</li>
+    </ul>
+
+    <ol>
+        <hr>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, doloremque.</li>
+        <li>guys</li>
+    </ol>
+    <a href="https://www.silveroakuni.ac.in/#popup1">silver oak</a>
+    <br>
+    <img style="height: 50% ;" src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg"
+        alt="no image">
+        <br>
+        <br>
+        <table>
+            <tr>
+                <th>employee no.</th>
+                <th>name</th>
+                <th>sellery</th>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>zeel</td>
+                <td>30000</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>neel</td>
+                <td>10000</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>shubh</td>
+                <td>20000</td>
+            </tr>
+        </table>
+</body>
+
+
+</html>
